@@ -1,0 +1,43 @@
+.parallax {
+  background-image: url("https://mrwallpaper.com/images/hd/fairies-stairway-to-heaven-4znaq3nzdemm1m8f.jpg");
+
+  
+  height: 100%; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  }
+
+.parallax2 {
+  background-image: url("https://wallpapers.com/images/hd/hell-12833-x-5500-3z36lwwfgc7hkq8e.jpg");
+
+  
+  height: 100%; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  }
+
+.textcon{
+  height: 100vh;
+  display: grid;
+  text-align: center;
+  color: aliceblue;
+  align-content: center;
+  font-size: 100px;
+}
+
+.text{
+  height: 100px;
+  display: grid;
+  text-align: center;
+  color: aliceblue;
+  align-content: center;
+  background-color: black;
+}
